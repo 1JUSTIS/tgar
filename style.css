@@ -2,17 +2,17 @@ body {
   background-color: tomato;
 }
 
-.container-navbar {
+.navbar {
   background-color: #3333;
 }
 
-.ul-navbar {
+.navbar ul {    /* penulisan css untuk ul di class navbar */
   background-color: green;
 width: 500px;
   height:100px;
 }
 
-.li-navbar {
+.navbar li {   /* penulisan css untuk li di class navbar */
  border: 1px solid black; 
   list-style-type: none;
 }
